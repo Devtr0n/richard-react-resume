@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name":"Richard Hollon",
+    "occupation":"Senior Full Stack .NET Developer",
+    "description":"with over 18 years of relevant experience.",
+    "image":"profilepic.jpg",
+    "bio":"I (Richard Hollon) am a 39 year old software engineer based in downtown Austin, Texas USA. I enjoy programming in the Microsoft stack: C#, PowerShell, JavaScript, ASP.NET MVC, HTML5, jQuery, Linq-to-EF, Web API 2/REST and SQL. I also advocate agile practices, continuous integration and domain driven design. I am an avid traveller, having most recently visited: New Orleans (Mardi Gras/Honeymoon), Budapest Hungary, Moscow Russia, Tbilisi Georgia, Athens Greece and Sochi/Krasnodar Russia. On March 3rd, 2019 I married the woman of my dreams at Mount Bonnell in Austin, Texas USA. In my free time I enjoy: playing my Martin guitar (a lefty), cooking different recipes (try me), cold-brewing coffee, bicycling Austin's trails and boardwalk, swimming, freshwater fishing, dove hunting, two-steppin' across Texas, editing vacation videos and so much more. This website was re-written in jQuery during some rare free time (Oct 2015). This website was updated (March 28th, 2019).",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "richardsmailbox@gmail.com",
+    "phone": "512-239-9529",
+    "address":{
+      "street":"54 Rainey Street",
+      "city":"Austin",
+      "state":"Texas",
+      "zip": "78701"
+    },
+    "website": "http://www.richardhollon.com",
+    "resumedownload":"http://richardhollon.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/nekotakacho",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/richardhollon/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/nekotakacho",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Devtr0n",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Texas State Technical College",
+        "degree":"A.A.S. degree in Computer Science",
+        "graduated":"August 2001 - GPA 3.2",
+        "description":"Courses: Logic and Design, Systems Analysis, Qbasic, IBM COBOL I, II, III, RPG II & IV, Java JDK, C.I.C.S., ALC (Assembler), Unix Sun Solaris, Borland C++, Visual Basic 6 I & II, Visual C++ 6 I & II, Oracle SQL, Oracle PL/SQL."
+      },
+      {
+        "school":"Plano East Senior High School",
+        "degree":"Advanced Placement Art Course",
+        "graduated":"May 1998",
+        "description":"Advanced art courses with opportunities at Booker T Washington arts magnet school."
+      }
+    ],
+    "work":[
+      {
+        "company":"Xcentium (Los Angeles, CA)",
+        "title":"Senior Software Developer (remote)",
+        "years":"March 2019 - Present",
+        "description":"Maintenance of ICP financial incentive payout system for Western Alliance Bank Corporation (Tempe, Arizona)."
+      },
+      {
+        "company":"Texas Workforce Commission (Texas State Capitol)",
+        "title":"Senior Full Stack .NET Consultant",
+        "years":"Jan 2016 - Mar 2019",
+        "description":"Planned, architected, developed, tested, released and supported web 2.0 initiatives within the LMCI department of TWC. Re-designed several legacy applications into modern web applications for public and internal use, while meeting all deadlines and project goals. Participated in all aspects of all project phases. Technologies included: C#, WebAPI 2, Entity Framework, OData v4 and Linq-to-EF, HTML5, Bootstrap 4, jQuery 3.1, JavaScript (ES6), Backgrid/Backbone, and Kendo UI Professional (grids, pdf, Excel, etc.), targeting mobile browsers and devices supporting IE, Chrome and Safari." 
+      },
+      {
+        "company":"Texas Education Agency (Texas State Capitol)",
+        "title":"Programmer V",
+        "years":"Feb 2014 - Feb 2016",
+        "description":"• Maintained, supported and enhanced eGrants, a legacy ASP.NET 3.5 web application distributing $20 billion yearly in education grants for Texaspublic school funding. Architected, designed, developed, built, tested and released the 2015 NCLB (No Child Left Behind) Federal Report card for the Obama Administration's auditing of Highly Qualified Teachers at the state, district and campus levels in Texas public schools.  Maintained, supported and enhanced the Consolidated Entitlement Management System (CEMS), a legacy MVC web application, used for allocating and calculating monies for Texas public schools. Assisted in upgrading CEMS to MVC 5/SQL 2012."
+      },
+      {
+        "company":"Department of State Health Services (WIC)",
+        "title":"Senior Full Stack .NET Consultant",
+        "years":"May 2013 - Jan 2014",
+        "description":"Modified, upgraded, released & deployed the Nutritional Education & Breastfeeding Plan web system to support the 2014 Fiscal year breastfeeding classes for DSHS used in 76 counties across Texas. Re-factored, modified, upgraded, tuned, tested & deployed WICStaff, a Microsoft ASP.NET MVC 3 application in a Windows 2003 environment, adhering to all government policies, procedures, requirements and guidelines."
+      }           
+    ],
+    "skills":[
+      {
+        "name":"C#",
+        "level":"90%"
+      },
+      {
+        "name":"ASP.NET MVC",
+        "level":"80%"
+      },
+      {
+        "name":"PowerShell",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"80%"
+      },
+      {
+        "name":"Objective-C",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
