@@ -1,4 +1,4 @@
-/*-----------------------------------------------------------------------------------
+ /*-----------------------------------------------------------------------------------
 /*
 /* Init JS
 /*
@@ -152,7 +152,7 @@
       $.ajax({
 
 	      type: "POST",
-	      url: "inc/sendEmail.php",
+	      url: "sendEmail.php",
 	      data: data,
 	      success: function(msg) {
 
@@ -170,7 +170,12 @@
 	            $('#message-warning').fadeIn();
             }
 
-	      }
+	      },
+
+         error: function ( xhr, status, error) {
+          console.log( " xhr.responseText: " + xhr.responseText + " //status: " + status + " //Error: "+error );
+
+        }
 
       });
       return false;

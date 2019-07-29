@@ -5,9 +5,9 @@
     "description":"with over 18 years of relevant experience.",
     "image":"profilepic.jpg",
     "bio":"I (Richard Hollon) am a 39 year old software engineer based in downtown Austin, Texas USA. I enjoy programming in the Microsoft stack: C#, PowerShell, JavaScript, ASP.NET MVC, HTML5, jQuery, Linq-to-EF, Web API 2/REST and SQL. I also advocate agile practices, continuous integration and domain driven design. I am an avid traveller, having most recently visited: New Orleans (Mardi Gras/Honeymoon), Budapest Hungary, Moscow Russia, Tbilisi Georgia, Athens Greece and Sochi/Krasnodar Russia. On March 3rd, 2019 I married the woman of my dreams at Mount Bonnell in Austin, Texas USA. In my free time I enjoy: playing my Martin guitar (a lefty), cooking different recipes (try me), cold-brewing coffee, bicycling Austin's trails and boardwalk, swimming, freshwater fishing, dove hunting, two-steppin' across Texas, editing vacation videos and so much more. This website was re-written in jQuery during some rare free time (Oct 2015). This website was updated (March 28th, 2019).",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Feel free to get in contact with me.",
     "email": "richardsmailbox@gmail.com",
-    "phone": "512-239-9529",
+    "phone": "",
     "address":{
       "street":"54 Rainey Street",
       "city":"Austin",
@@ -15,12 +15,12 @@
       "zip": "78701"
     },
     "website": "http://www.richardhollon.com",
-    "resumedownload":"http://richardhollon.com",
+    "resumedownload":"/content/Richard.Hollon.Resume.2018.pdf",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/nekotakacho",
-        "className":"fa fa-facebook"
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/40899/d3vtr0n?tab=profile",
+        "className":"fa fa-stack-overflow"
       },
       {
         "name":"linkedin",
@@ -36,11 +36,6 @@
         "name":"github",
         "url":"http://github.com/Devtr0n",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -77,7 +72,7 @@
         "company":"Texas Education Agency (Texas State Capitol)",
         "title":"Programmer V",
         "years":"Feb 2014 - Feb 2016",
-        "description":"• Maintained, supported and enhanced eGrants, a legacy ASP.NET 3.5 web application distributing $20 billion yearly in education grants for Texaspublic school funding. Architected, designed, developed, built, tested and released the 2015 NCLB (No Child Left Behind) Federal Report card for the Obama Administration's auditing of Highly Qualified Teachers at the state, district and campus levels in Texas public schools.  Maintained, supported and enhanced the Consolidated Entitlement Management System (CEMS), a legacy MVC web application, used for allocating and calculating monies for Texas public schools. Assisted in upgrading CEMS to MVC 5/SQL 2012."
+        "description":"Maintained, supported and enhanced eGrants, a legacy ASP.NET 3.5 web application distributing $20 billion yearly in education grants for Texaspublic school funding. Architected, designed, developed, built, tested and released the 2015 NCLB (No Child Left Behind) Federal Report card for the Obama Administration's auditing of Highly Qualified Teachers at the state, district and campus levels in Texas public schools.  Maintained, supported and enhanced the Consolidated Entitlement Management System (CEMS), a legacy MVC web application, used for allocating and calculating monies for Texas public schools. Assisted in upgrading CEMS to MVC 5/SQL 2012."
       },
       {
         "company":"Department of State Health Services (WIC)",
@@ -120,34 +115,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Texas Career Check",
+        "category":"An exploration tool built for students to research different careers and schools.",
+        "image":"texascareercheck.jpg",
+        "url":"https://www.texascareercheck.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Texas Labor Analysis",
+        "category":"Texas labor market analysis tool, used by the Texas Governor's office to quote and analyze labor supply and demand.",
+        "image":"texaslaboranalysis.jpg",
+        "url":"http://www.texaslaboranalysis.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Texas Labor Market Information",
+        "category":"Texas labor market and information.",
+        "image":"texaslmi.jpg",
+        "url":"http://www.texaslmi.com"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Incenergy iPhone app",
+        "category":"Contributed to the smart device/HVAC control iPhone app for an Austin IoT startup. HVAC control, lighting control, electric/gas/water/refrigeration metering.",
+        "image":"incenergy.jpg",
+        "url":"https://apps.apple.com/us/app/incenergy/id561073890"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"eGrants",
+        "category":"Texas Education Agency eGrants system. ",
+        "image":"texaseducationagency.jpg",
+        "url":"https://tea.texas.gov/grants/"
       }
     ]
   },
