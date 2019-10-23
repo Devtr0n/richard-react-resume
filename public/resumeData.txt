@@ -4,7 +4,7 @@
     "occupation":"Senior Full Stack .NET Developer",
     "description":"with over 18 years of relevant experience.",
     "image":"profilepic.jpg",
-    "bio":"I (Richard Hollon) am a 39 year old software engineer based in downtown Austin, Texas USA. I enjoy programming in the Microsoft stack: C#, PowerShell, JavaScript, ASP.NET MVC, HTML5, jQuery, Linq-to-EF, Web API 2/REST and SQL. I also advocate agile practices, continuous integration and domain driven design. I am an avid traveller, having most recently visited: New Orleans (Mardi Gras/Honeymoon), Budapest Hungary, Moscow Russia, Tbilisi Georgia, Athens Greece and Sochi/Krasnodar Russia. On March 3rd, 2019 I married the woman of my dreams at Mount Bonnell in Austin, Texas USA. In my free time I enjoy: playing my Martin guitar (a lefty), cooking different recipes (try me), cold-brewing coffee, bicycling Austin's trails and boardwalk, swimming, freshwater fishing, dove hunting, two-steppin' across Texas, editing vacation videos and so much more. This website was re-written in jQuery during some rare free time (Oct 2015). This website was updated (March 28th, 2019).",
+    "bio":"I (Richard Hollon) am a 39 year old software engineer based in downtown Austin, Texas USA. I enjoy programming in the Microsoft stack: C#, PowerShell, JavaScript, ASP.NET MVC, HTML5, jQuery, Linq-to-EF, Web API 2/REST and SQL. I also advocate agile practices, continuous integration and domain driven design. I am an avid traveller, having most recently visited: Colorado Rocky Mountains, New Orleans (Mardi Gras/Honeymoon), Budapest Hungary, Moscow Russia, Tbilisi Georgia (engagement), Athens Greece and Sochi/Krasnodar Russia. On March 3rd, 2019 I married the woman of my dreams at Mount Bonnell in Austin, Texas USA. In my free time I enjoy: playing my Martin guitar (a lefty), cooking different recipes (try me), cold-brewing coffee, bicycling Austin's trails and boardwalk, swimming, freshwater fishing, dove hunting, two-steppin' across Texas, editing vacation videos and so much more. This website was re-written in ReactJS during some rare free time (Oct 2019). This website was last updated (Oct 23rd, 2019).",
     "contactmessage":"Feel free to get in contact with me.",
     "email": "richardsmailbox@gmail.com",
     "phone": "",
@@ -15,7 +15,7 @@
       "zip": "78701"
     },
     "website": "http://www.richardhollon.com",
-    "resumedownload":"/content/Richard.Hollon.Resume.2018.pdf",
+    "resumedownload":"/content/Richard.Hollon.Resume.2020.pdf",
     "social":[
       {
         "name":"stackoverflow",
@@ -59,13 +59,13 @@
       {
         "company":"Xcentium (Los Angeles, CA)",
         "title":"Senior Software Developer (remote)",
-        "years":"March 2019 - Present",
-        "description":"Maintenance of ICP financial incentive payout system for Western Alliance Bank Corporation (Tempe, Arizona)."
+        "years":"Feb 2019 - Present",
+        "description":"Lead development efforts and maintenance of Incentive Commission Program, an internal financial incentive payout application for the Western Alliance Bank Corporation (Phoenix, AZ) and the Bank of Nevada. Assisted in application transition and migration to Azure cloud. Migrated JIRA backlog and sprints to Azure DevOps and Team Foundation Server 2019. Managed backlog and sprint planning and assisted in release deployments and release documentation. Troubleshooting of production SSIS packages for failing commission payments and commission processing. Mentored junior level team members in various remote locations. Assisted in team code reviews, GIT pull request approvals, architectural design planning and maintenance strategies. Assisted in database server migration from SQL 2012 to SQL 2016. Adhered to all WAB security protocols and security training."
       },
       {
         "company":"Texas Workforce Commission (Texas State Capitol)",
         "title":"Senior Full Stack .NET Consultant",
-        "years":"Jan 2016 - Mar 2019",
+        "years":"Feb 2016 - Feb 2019",
         "description":"Planned, architected, developed, tested, released and supported web 2.0 initiatives within the LMCI department of TWC. Re-designed several legacy applications into modern web applications for public and internal use, while meeting all deadlines and project goals. Participated in all aspects of all project phases. Technologies included: C#, WebAPI 2, Entity Framework, OData v4 and Linq-to-EF, HTML5, Bootstrap 4, jQuery 3.1, JavaScript (ES6), Backgrid/Backbone, and Kendo UI Professional (grids, pdf, Excel, etc.), targeting mobile browsers and devices supporting IE, Chrome and Safari." 
       },
       {
@@ -84,15 +84,15 @@
     "skills":[
       {
         "name":"C#",
-        "level":"90%"
+        "level":"95%"
       },
       {
         "name":"ASP.NET MVC",
-        "level":"80%"
+        "level":"85%"
       },
       {
         "name":"PowerShell",
-        "level":"70%"
+        "level":"75%"
       },
       {
         "name":"SQL",
@@ -100,15 +100,15 @@
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"89%"
       },
       {
         "name":"JavaScript",
-        "level":"80%"
+        "level":"87%"
       },
       {
         "name":"Objective-C",
-        "level":"70%"
+        "level":"85%"
       }
     ]
   },
@@ -122,25 +122,25 @@
       },
       {
         "title":"Texas Labor Analysis",
-        "category":"Texas labor market analysis tool, used by the Texas Governor's office to quote and analyze labor supply and demand.",
+        "category":"TTexas labor market's online Regional Occupational Analysis Tool, that can provide insights into the labor workforce statistics.",
         "image":"texaslaboranalysis.jpg",
         "url":"http://www.texaslaboranalysis.com"
       },
       {
         "title":"Texas Labor Market Information",
-        "category":"Texas labor market and information.",
+        "category":"Texas labor market's labor market statistics.",
         "image":"texaslmi.jpg",
         "url":"http://www.texaslmi.com"
       },
       {
         "title":"Incenergy iPhone app",
-        "category":"Contributed to the smart device/HVAC control iPhone app for an Austin IoT startup. HVAC control, lighting control, electric/gas/water/refrigeration metering.",
+        "category":"A smart device/HVAC control iPhone app for an Austin IoT startup. HVAC control, lighting control, electric / gas / water / refrigeration metering.",
         "image":"incenergy.jpg",
         "url":"https://apps.apple.com/us/app/incenergy/id561073890"
       },
       {
         "title":"eGrants",
-        "category":"Texas Education Agency eGrants system. ",
+        "category":"Texas Education Agency eGrants system for public school funding.",
         "image":"texaseducationagency.jpg",
         "url":"https://tea.texas.gov/grants/"
       }
@@ -149,12 +149,12 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Richard is passionate, hardworking and an outstanding resource and contributing team member when developing enterprise software applications under a rigorous schedule. It has been my privelege to hire and work with him. Not bad for an American!",
+        "user":"Timothy Walters - CIO at Autism Community Network - Adelaide, Australia"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Richard has helped my department (LMCI) deliver three substantial data intensive websites used by the State of Texas Legislature and Governor's office. He has helped us earn two government achievement awards and recognition from the governor's office at the Texas State Capitol. I highly recommend his work and attention to detail on modern web application and design.",
+        "user":"Mark Duksta - Director of IT @ Labor Market and Career Information Department of the Texas Workforce Commission"
       }
     ]
   }
