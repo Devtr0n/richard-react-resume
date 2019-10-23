@@ -4,10 +4,11 @@
     "occupation":"Senior Full Stack .NET Developer",
     "description":"with over 18 years of relevant experience.",
     "image":"profilepic.jpg",
-    "bio":"I (Richard Hollon) am a 39 year old software engineer based in downtown Austin, Texas USA. I enjoy programming in the Microsoft stack: C#, PowerShell, JavaScript, ASP.NET MVC, HTML5, jQuery, Linq-to-EF, Web API 2/REST and SQL. I also advocate agile practices, continuous integration and domain driven design. I am an avid traveller, having most recently visited: Colorado Rocky Mountains, New Orleans (Mardi Gras/Honeymoon), Budapest Hungary, Moscow Russia, Tbilisi Georgia (engagement), Athens Greece and Sochi/Krasnodar Russia. On March 3rd, 2019 I married the woman of my dreams at Mount Bonnell in Austin, Texas USA. In my free time I enjoy: playing my Martin guitar (a lefty), cooking different recipes (try me), cold-brewing coffee, bicycling Austin's trails and boardwalk, swimming, freshwater fishing, dove hunting, two-steppin' across Texas, editing vacation videos and so much more. This website was re-written in ReactJS during some rare free time (Oct 2019). This website was last updated (Oct 23rd, 2019).",
+    "bio":"I (Richard Hollon) am a 39 year old software engineer based in downtown Austin, Texas USA. I enjoy programming in the Microsoft stack: C#, PowerShell, JavaScript, ASP.NET MVC, HTML5, jQuery, Linq-to-EF, Web API 2/REST and SQL. I also advocate agile practices, continuous integration and domain driven design.",
+    "bio2":"I am an avid traveller, having most recently visited: Colorado Rocky Mountains, New Orleans (Mardi Gras/Honeymoon), Budapest Hungary, Moscow Russia, Tbilisi Georgia (engagement), Athens Greece and Sochi/Krasnodar Russia. On March 3rd, 2019 I married the woman of my dreams at Mount Bonnell in Austin, Texas USA.",
+    "bio3": "In my free time I enjoy: playing my Martin guitar (a lefty), cooking different recipes (try me), cold-brewing coffee, bicycling Austin's trails and boardwalk, swimming, freshwater fishing, dove hunting, two-steppin' across Texas, editing vacation videos and so much more. This website was re-written in ReactJS during some rare free time (Oct 2019). This website was last updated (Oct 23rd, 2019).",
     "contactmessage":"Feel free to get in contact with me.",
     "email": "richardsmailbox@gmail.com",
-    "phone": "",
     "address":{
       "street":"54 Rainey Street",
       "city":"Austin",
@@ -40,7 +41,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"Texas State Technical College",
