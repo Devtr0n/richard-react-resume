@@ -4,8 +4,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babel/core": "^7.6.4",
-    "eslint": "^6.5.1",
     "jquery": "^3.4.1",
     "php": "0.0.1",
     "react": "^16.8.6",
